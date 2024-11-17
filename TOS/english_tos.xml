@@ -1,0 +1,4061 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tos>
+  <tosdata>
+    <itemgroups>
+      <itemgroup>
+        <iigroup>00</iigroup>
+        <iigroupname>Administrative Affairs</iigroupname>
+        <itemgroups>
+          <itemgroup>
+            <iigroup>00.00</iigroup>
+            <iigroupname>Administrative management</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>00.00.00</iigroup>
+                <iigroupname>Organisation of resources</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>00.00.00.00</iigroup>
+                    <iigroupname>Municipal elections</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>00.00.00.01</iigroup>
+                    <iigroupname>EU elections</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>00.00.00.02</iigroup>
+                    <iigroupname>Presidential elections</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>00.00.00.03</iigroup>
+                    <iigroupname>Municipal elections</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>00.00.00.04</iigroup>
+                    <iigroupname>Referenda</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>00.00.00.05</iigroup>
+                    <iigroupname>Youth Parliamentary Elections</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>00.00.00.06</iigroup>
+                    <iigroupname>Mayoral elections</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>00.00.01</iigroup>
+                <iigroupname>Election/composition of organs/legislative bodies</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>00.00.01.00</iigroup>
+                    <iigroupname>Election of bodies and organs of trust</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>00.00.01.01</iigroup>
+                    <iigroupname>Election of committees and working groups</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>00.00.01.02</iigroup>
+                    <iigroupname>Ownership</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>00.01</iigroup>
+            <iigroupname>Planning, organising, implementing and developing activities</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>00.01.00</iigroup>
+                <iigroupname>Restructuring, dissolution, consolidation and cooperation</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>00.01.00.00</iigroup>
+                    <iigroupname>Municipality/joint municipal authority/joint municipal authority</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>00.01.00.01</iigroup>
+                    <iigroupname>Community associations</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>00.01.00.02</iigroup>
+                    <iigroupname>Municipalities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>00.01.00.03</iigroup>
+                    <iigroupname>Ltd</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>00.01.00.04</iigroup>
+                    <iigroupname>Agencies and Institutions</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>00.01.00.05</iigroup>
+                    <iigroupname>Community service</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>00.01.01</iigroup>
+                <iigroupname>Organization of administration</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>00.01.01.00</iigroup>
+                    <iigroupname>Rule Management</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>00.01.01.01</iigroup>
+                    <iigroupname>Operational Guidance</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>00.01.02</iigroup>
+                <iigroupname>Operational planning and monitoring</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>00.01.03</iigroup>
+                <iigroupname>Procedures for evaluation/development of activities</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>00.01.04</iigroup>
+                <iigroupname>Risk Management</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>00.01.05</iigroup>
+                <iigroupname>Programme, project and project activities</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>00.02</iigroup>
+            <iigroupname>Decision making and management</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>00.02.00</iigroup>
+                <iigroupname>Decision making by the Council</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>00.02.01</iigroup>
+                <iigroupname>Decisions of the Government</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>00.02.02</iigroup>
+                <iigroupname>Municipal decision-making</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>00.02.03</iigroup>
+                <iigroupname>Management group work</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>00.03</iigroup>
+            <iigroupname>Inspection activity</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>00.03.00</iigroup>
+                <iigroupname>External operational, administrative and financial control</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>00.03.01</iigroup>
+                <iigroupname>Internal operational, administrative and financial control</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>00.04</iigroup>
+            <iigroupname>Domestic Cooperation</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>00.04.00</iigroup>
+                <iigroupname>Municipal and inter-municipal cooperation</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>00.04.01</iigroup>
+                <iigroupname>Cooperation with organisations</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>00.04.02</iigroup>
+                <iigroupname>Local-government cooperation</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>00.05</iigroup>
+            <iigroupname>Initial Activity</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>00.05.00</iigroup>
+                <iigroupname>Community initiative</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>00.05.01</iigroup>
+                <iigroupname>Council initiative</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+        </itemgroups>
+      </itemgroup>
+      <itemgroup>
+        <iigroup>01</iigroup>
+        <iigroupname>HUMAN RESOURCES</iigroupname>
+        <itemgroups>
+          <itemgroup>
+            <iigroup>01.00</iigroup>
+            <iigroupname>Human Resources Management</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>01.00.00</iigroup>
+                <iigroupname>Employer and personnel policy</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.00.00.00</iigroup>
+                    <iigroupname>Decision making by the institution</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.00.00.01</iigroup>
+                    <iigroupname>Employer policy and strategy</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.00.00.02</iigroup>
+                    <iigroupname>Employee policy and strategy</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.00.00.03</iigroup>
+                    <iigroupname>Pay policy</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>01.00.01</iigroup>
+                <iigroupnamename>General collective agreements</iigroupnamename>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.00.01.00</iigroup>
+                    <iigroupname>VES/TES advice</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.00.01.01</iigroup>
+                    <iigroupname>Permanent negotiation and agreement</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.00.01.02</iigroup>
+                    <iigroupname>Trade union and shop steward activities</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>01.00.02</iigroup>
+                <iigroupname>Personnel planning and reporting</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.00.02.00</iigroup>
+                    <iigroupname>Personnel planning</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.00.02.01</iigroup>
+                    <iigroupname>Human Resources Planning</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>01.01</iigroup>
+            <iigroupname>Service Relations</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>01.01.00</iigroup>
+                <iigroupname>Service Relationships</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.01.00.00</iigroup>
+                    <iigroupname>Creation, modification and abolition of a post or function</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>01.01.01</iigroup>
+                <iigroupname>Recruitment and selection for employment</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.01.01.00</iigroup>
+                    <iigroupname>Applying for a work permit</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.01.01</iigroup>
+                    <iigroupname>Permanent and temporary</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.01.02</iigroup>
+                    <iigroupname>Permanent</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.01.03</iigroup>
+                    <iigroupname>Substitutes for rotational leave</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.01.04</iigroup>
+                    <iigroupname>Use of temporary agency staff</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.01.05</iigroup>
+                    <iigroupname>Civilian service personnel</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.01.06</iigroup>
+                    <iigroupname>Training</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.01.07</iigroup>
+                    <iigroupname>Recruiting apprenticeship</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.01.08</iigroup>
+                    <iigroupname>State-assisted employment</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.01.09</iigroup>
+                    <iigroupname>Employment Experiments</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>01.01.02</iigroup>
+                <iigroupname>Start of service relationship</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.01.02.00</iigroup>
+                    <iigroupname>Receipt of request/action</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.02.01</iigroup>
+                    <iigroupname>Employment income check</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.02.02</iigroup>
+                    <iigroupname>Clearance of criminal record</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.02.03</iigroup>
+                    <iigroupname>Employment contract</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.02.04</iigroup>
+                    <iigroupname>Experience/granting of professional indemnity</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.02.05</iigroup>
+                    <iigroupname>Start of salary payment</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.02.06</iigroup>
+                    <iigroupname>Requesting access rights to information systems</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.02.07</iigroup>
+                    <iigroupname>Commitment to implementing privacy and data security</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.02.08</iigroup>
+                    <iigroupname>Authorisation</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>01.01.03</iigroup>
+                <iigroupname>Managing a service relationship</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.01.03.00</iigroup>
+                    <iigroupname>Managing a side activity</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.01</iigroup>
+                    <iigroupname>Use of working time</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.02</iigroup>
+                    <iigroupname>Overtime and overtime</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.03</iigroup>
+                    <iigroupname>Vacation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.04</iigroup>
+                    <iigroupname>Savings holidays</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.05</iigroup>
+                    <iigroupname>Sick leave</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.06</iigroup>
+                    <iigroupname>Occupational leave</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.07</iigroup>
+                    <iigroupname>Discretionary official/working holidays</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.08</iigroup>
+                    <iigroupname>Swap leave</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.09</iigroup>
+                    <iigroupname>Parental leave (maternity, parental, paternity, nursing, child sickness)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.10</iigroup>
+                    <iigroupname>Sick leave</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.11</iigroup>
+                    <iigroupname>Accidents at work/travel</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.12</iigroup>
+                    <iigroupname>Missions</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.13</iigroup>
+                    <iigroupname>Development Discussions</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.14</iigroup>
+                    <iigroupname>Work evaluation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.15</iigroup>
+                    <iigroupname>Service breaches/disciplinary actions</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.16</iigroup>
+                    <iigroupname>Care counselling for substance abusers</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.17</iigroup>
+                    <iigroupname>Turnover for health reasons</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.18</iigroup>
+                    <iigroupname>Senior citizens</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.19</iigroup>
+                    <iigroupname>Early retirement</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.20</iigroup>
+                    <iigroupname>Temporary invalidity pension = rehabilitation allowance</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.21</iigroup>
+                    <iigroupname>Disability pension</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.22</iigroup>
+                    <iigroupname>Temporary partial disability pension as rehabilitation allowance</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.03.23</iigroup>
+                    <iigroupname>Retirement</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>01.01.04</iigroup>
+                <iigroupname>End of service relationship</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.01.04.00</iigroup>
+                    <iigroupname>Retirement</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.04.01</iigroup>
+                    <iigroupname>Retirement</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.04.02</iigroup>
+                    <iigroupname>Cancellation of employment</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.01.04.03</iigroup>
+                    <iigroupname>Transition to retirement (e.g. old-age pension, early retirement pension, disability pension, individual early retirement pension)</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>01.02</iigroup>
+            <iigroupname>Payment of wages, salaries and allowances</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>01.02.00</iigroup>
+                <iigroupname>Calculation of the basis for calculating wages, salaries and allowances</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.02.00.00</iigroup>
+                    <iigroupname>Monthly reporting</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.02.00.01</iigroup>
+                    <iigroupname>Reporting periodic work</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.02.00.02</iigroup>
+                    <iigroupname>Reporting hourly wages</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>01.02.01</iigroup>
+                <iigroupname>Payment of wages, salaries, allowances and fringe benefits</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.02.01.00</iigroup>
+                    <iigroupname>Wage calculation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.02.01.01</iigroup>
+                    <iigroupname>Personal supplement</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.02.01.02</iigroup>
+                    <iigroupname>Annual component and occupational supplement</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.02.01.03</iigroup>
+                    <iigroupname>Benefits (outfits, cars, housing, telephone)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.02.01.04</iigroup>
+                    <iigroupname>Employee benefits</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.02.01.05</iigroup>
+                    <iigroupname>Meeting fees</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.02.01.06</iigroup>
+                    <iigroupname>Payroll debits</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>01.02.02</iigroup>
+                <iigroupname>Movement</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.02.02.00</iigroup>
+                    <iigroupname>Travel Management</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.02.02.01</iigroup>
+                    <iigroupname>Travel</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>01.02.03</iigroup>
+                <iigroupname>Rewarding staff</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.02.03.00</iigroup>
+                    <iigroupname>Exempt</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.02.03.01</iigroup>
+                    <iigroupname>Acknowledgements</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.02.03.02</iigroup>
+                    <iigroupname>Discipline of honour and merit</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.02.03.03</iigroup>
+                    <iigroupname>Distinctions</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>01.03</iigroup>
+            <iigroupname>Developing the knowledge base</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>01.03.00</iigroup>
+                <iigroupname>Training and development of staff</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.03.00.00</iigroup>
+                    <iigroupname>Development of performance and management skills</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.03.00.01</iigroup>
+                    <iigroupname>Induction</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.03.00.02</iigroup>
+                    <iigroupname>Applying for training</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.03.00.03</iigroup>
+                    <iigroupname>Mentoring</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.03.00.04</iigroup>
+                    <iigroupname>Apprenticeship training</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>01.03.01</iigroup>
+                <iigroupname>Support for non-formal education</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.03.01.00</iigroup>
+                    <iigroupname>Applying for activation allowance</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.03.01.01</iigroup>
+                    <iigroupname>Grants</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>01.04</iigroup>
+            <iigroupname>Promoting well-being at work</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>01.04.00</iigroup>
+                <iigroupname>Community affairs</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.04.00.00</iigroup>
+                    <iigroupname>Establishment and operation of a joint action organisation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.04.00.01</iigroup>
+                    <iigroupname>Initial activities</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>01.04.01</iigroup>
+                <iigroupname>Protection and safety at work</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.04.01.00</iigroup>
+                    <iigroupname>Elections on health and safety at work</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.04.01.01</iigroup>
+                    <iigroupname>Activities of the Health and Safety Committee</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.04.01.02</iigroup>
+                    <iigroupname>Occupational health and safety inspections</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.04.01.03</iigroup>
+                    <iigroupname>Welfare at work</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>01.04.02</iigroup>
+                <iigroupname>Occupational health care</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.04.02.00</iigroup>
+                    <iigroupname>Occupational health care</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.04.02.01</iigroup>
+                    <iigroupname>Occupational health inspections</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.04.02.02</iigroup>
+                    <iigroupname>Workplace surveys</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.04.02.03</iigroup>
+                    <iigroupname>Rehabilitation/ASLAK</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.04.02.04</iigroup>
+                    <iigroupname>Retrofit/retrofit</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>01.04.02.05</iigroup>
+                    <iigroupname>Kuntoutus/TYK-kuntoutus</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>01.04.03</iigroup>
+                <iigroupname>Catering</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>01.04.04</iigroup>
+                <iigroupname>Recreational and leisure activities</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>01.04.04.00</iigroup>
+                    <iigroupname>Support for sport and culture</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+        </itemgroups>
+      </itemgroup>
+      <itemgroup>
+        <iigroup>02</iigroup>
+        <iigroupname>FINANCE, TAXATION AND PROPERTY MANAGEMENT</iigroupname>
+        <itemgroups>
+          <itemgroup>
+            <iigroup>02.00</iigroup>
+            <iigroupname>Financial management</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>02.01</iigroup>
+            <iigroupname>Economic Policy</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>02.02</iigroup>
+            <iigroupname>Economic planning and monitoring</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>02.02.01</iigroup>
+                <iigroupname>Internal and external audit</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.02.01.00</iigroup>
+                    <iigroupname>Preparation</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>02.02.02</iigroup>
+                <iigroupname>Economic monitoring</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.02.02.00</iigroup>
+                    <iigroupname>Reporting</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>02.02.00</iigroup>
+                <iigroupname>Preparation of the budget</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>02.03</iigroup>
+            <iigroupname>Verotus</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>02.03.02</iigroup>
+                <iigroupname>Municipal taxation</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.03.02.00</iigroup>
+                    <iigroupname>Property taxation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.03.02.01</iigroup>
+                    <iigroupname>Community taxation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.03.02.02</iigroup>
+                    <iigroupname>Dog Verotus</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>02.03.00</iigroup>
+                <iigroupname>Valtionverotus</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>02.03.01</iigroup>
+                <iigroupname>Municipal Taxation</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>02.04</iigroup>
+            <iigroupname>Customs</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>02.05</iigroup>
+            <iigroupname>Finance and treasury</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>02.05.00</iigroup>
+                <iigroupname>Determination and determination of the basis of assessment</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.05.00.00</iigroup>
+                    <iigroupname>Setting fees and charges</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.05.00.01</iigroup>
+                    <iigroupname>Determination of membership fees and contributions</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>02.05.01</iigroup>
+                <iigroupname>Grants and subsidies</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.05.01.00</iigroup>
+                    <iigroupname>Government contributions and financial assistance (including discretionary)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.05.01.01</iigroup>
+                    <iigroupname>Grants for municipal reunification</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.05.01.02</iigroup>
+                    <iigroupname>Grants applied for by the municipality itself</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.05.01.03</iigroup>
+                    <iigroupname>Grants awarded by the municipality</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.05.01.04</iigroup>
+                    <iigroupname>Sponsorship</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>02.05.02</iigroup>
+                <iigroupname>Procurement Finance</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.05.02.00</iigroup>
+                    <iigroupname>National development funding</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.05.02.01</iigroup>
+                    <iigroupname>EU subsidies and grants</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.05.02.02</iigroup>
+                    <iigroupname>National funding</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.05.02.03</iigroup>
+                    <iigroupname>Centralised RTD funding</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>02.05.03</iigroup>
+                <iigroupname>Initialization</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>02.05.04</iigroup>
+                <iigroupname>Ontolainaus</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.05.04.00</iigroup>
+                    <iigroupname>Processing of loans and subsidised loans</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>02.05.05</iigroup>
+                <iigroupname>Investment activity</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.05.05.00</iigroup>
+                    <iigroupname>Investment of assets (equity investment, equity investment, portfolio investment)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.05.05.01</iigroup>
+                    <iigroupname>Financial risks</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.05.05.02</iigroup>
+                    <iigroupname>Fund Management</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.05.05.03</iigroup>
+                    <iigroupname>Management of donations and bequests</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>02.05.06</iigroup>
+                <iigroupname>Management of guarantees and collateral</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>02.06</iigroup>
+            <iigroupname>Accounting and Payments</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>02.06.00</iigroup>
+                <iigroupname>Banking Services Management</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.06.00.00</iigroup>
+                    <iigroupname>Accounts Management</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.00.01</iigroup>
+                    <iigroupname>Start and stop</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.00.02</iigroup>
+                    <iigroupname>Access rights</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.00.03</iigroup>
+                    <iigroupname>Authorisations</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>02.06.01</iigroup>
+                <iigroupname>Accountancy</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.06.01.00</iigroup>
+                    <iigroupname>Maintenance of primary data</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.01.01</iigroup>
+                    <iigroupname>VAT accounts</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.01.02</iigroup>
+                    <iigroupname>Accounts for fixed assets</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.01.03</iigroup>
+                    <iigroupname>Compilation of financial statements</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.01.04</iigroup>
+                    <iigroupname>Compilation of consolidated accounts</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.01.05</iigroup>
+                    <iigroupname>Invoicing and purchase accounting</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.01.06</iigroup>
+                    <iigroupname>Sales invoicing and sales ledger</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>02.06.02</iigroup>
+                <iigroupname>Cashier functions</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.06.02.00</iigroup>
+                    <iigroupname>Centralised treasury operations</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.02.01</iigroup>
+                    <iigroupname>Centralised treasury operations</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.02.02</iigroup>
+                    <iigroupname>Operation of staff pension funds</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>02.06.03</iigroup>
+                <iigroupname>Internal bank activities</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>02.06.04</iigroup>
+                <iigroupname>Default and insolvency</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.06.04.00</iigroup>
+                    <iigroupname>Collection and recovery</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.04.01</iigroup>
+                    <iigroupname>Collection of rents and ground rents</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.04.02</iigroup>
+                    <iigroupname>Loan recovery and legal recovery of wages</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.04.03</iigroup>
+                    <iigroupname>Recovery in bankruptcy</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.04.04</iigroup>
+                    <iigroupname>Financial arrangements</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.04.05</iigroup>
+                    <iigroupname>Restructuring</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.04.06</iigroup>
+                    <iigroupname>Contests</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.04.07</iigroup>
+                    <iigroupname>Competition control</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.04.08</iigroup>
+                    <iigroupname>Extradition</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.06.04.09</iigroup>
+                    <iigroupname>Fixed auctions</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>02.07</iigroup>
+            <iigroupname>Asset Management</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>02.07.00</iigroup>
+                <iigroupname>Fixed Asset Management</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.07.00.00</iigroup>
+                    <iigroupname>Calculation of assets and valuation of assets</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>02.07.01</iigroup>
+                <iigroupname>Property and fixed asset management</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.07.01.00</iigroup>
+                    <iigroupname>Inventory of fixed assets</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.07.01.01</iigroup>
+                    <iigroupname>Counting assets</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.07.01.02</iigroup>
+                    <iigroupname>Posts</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.07.01.03</iigroup>
+                    <iigroupname>Investment Reserves</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>02.07.02</iigroup>
+                <iigroupname>Legacy and donations</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.07.02.00</iigroup>
+                    <iigroupname>Donations</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.07.02.01</iigroup>
+                    <iigroupname>Collective nests</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.07.02.02</iigroup>
+                    <iigroupname>Testamentit</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>02.07.02.03</iigroup>
+                    <iigroupname>Public Heritage</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>02.08</iigroup>
+            <iigroupname>Procurement</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>02.08.00</iigroup>
+                <iigroupname>Procurement</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>02.08.00.00</iigroup>
+                    <iigroupname>Purchase of services and goods</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>02.08.01</iigroup>
+                <iigroupname>Organisation of own transport</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>02.09</iigroup>
+            <iigroupname>Sales of own services and products</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>02.09.00</iigroup>
+                <iigroupname>Guidance on the sale of services and products</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+        </itemgroups>
+      </itemgroup>
+      <itemgroup>
+        <iigroup>03</iigroup>
+        <iigroupname>LEGISLATION AND LAW ENFORCEMENT</iigroupname>
+        <itemgroups>
+          <itemgroup>
+            <iigroup>03.00</iigroup>
+            <iigroupname>Regulation of national laws and regulations</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>03.01</iigroup>
+            <iigroupname>EU legislation</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>03.02</iigroup>
+            <iigroupname>Guidance on legislation and enforcement</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>03.03</iigroup>
+            <iigroupname>Application of legislation</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>03.04</iigroup>
+            <iigroupname>Law enforcement</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>03.05</iigroup>
+            <iigroupname>Personnel law</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>03.06</iigroup>
+            <iigroupname>Control of legal interests</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>03.06.00</iigroup>
+                <iigroupname>Rights proceedings</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>03.06.00.00</iigroup>
+                    <iigroupname>Domestic litigation and criminal matters</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>03.06.00.01</iigroup>
+                    <iigroupname>Representation of the organisation before the courts</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>03.06.01</iigroup>
+                <iigroupname>Labour dispute mediation</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>03.06.02</iigroup>
+                <iigroupname>Compensation for damage</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>03.06.02.00</iigroup>
+                    <iigroupname>Liability of civil servants</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>03.06.02.01</iigroup>
+                    <iigroupname>Damage to property</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+        </itemgroups>
+      </itemgroup>
+      <itemgroup>
+        <iigroup>04</iigroup>
+        <iigroupname>EXTERNAL POLICY AND INTERNATIONAL ACTION</iigroupname>
+        <itemgroups>
+          <itemgroup>
+            <iigroup>04.00</iigroup>
+            <iigroupname>International affairs governance</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>04.01</iigroup>
+            <iigroupname>International Affairs Management</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>04.02</iigroup>
+            <iigroupname>Development policy</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>04.03</iigroup>
+            <iigroupname>Immigration policy</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>04.03.00</iigroup>
+                <iigroupname>Employment and return migration</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>04.03.01</iigroup>
+                <iigroupname>Refugee Affairs</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>04.04</iigroup>
+            <iigroupname>Participation in international activities</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>04.04.02</iigroup>
+                <iigroupname>Participation in international cooperation</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>04.04.02.00</iigroup>
+                    <iigroupname>Community action</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>04.04.00</iigroup>
+                <iigroupname>Management of membership in international organisations</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>04.04.01</iigroup>
+                <iigroupname>Participation in international organisations</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+        </itemgroups>
+      </itemgroup>
+      <itemgroup>
+        <iigroup>05</iigroup>
+        <iigroupname>SOCIAL WORK AND SOCIAL SECURITY</iigroupname>
+        <itemgroups>
+          <itemgroup>
+            <iigroup>05.00</iigroup>
+            <iigroupname>Organisation and guidance of social work</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>05.01</iigroup>
+            <iigroupname>Adoption counselling</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.01.00</iigroup>
+                <iigroupname>General organisation, management and supervision of adoption counselling</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.01.01</iigroup>
+                <iigroupname>Adoption counselling client work</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.01.02</iigroup>
+                <iigroupname>Adoption counselling group work and cooperation</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.02</iigroup>
+            <iigroupname>Determination of identity</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.02.00</iigroup>
+                <iigroupname>General organisation, direction and supervision of the settlement of disputes</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.02.01</iigroup>
+                <iigroupname>Client work in the field of self-help</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.02.02</iigroup>
+                <iigroupname>Group and collaborative work on identity resolution</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.03</iigroup>
+            <iigroupname>Parenting and family counselling</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.03.00</iigroup>
+                <iigroupname>General organisation, guidance and supervision of educational and family counselling</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.03.01</iigroup>
+                <iigroupname>Client work in education and family counselling</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>05.03.01.00</iigroup>
+                    <iigroupname>Individual research on children</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.03.01.01</iigroup>
+                    <iigroupname>Personal health survey</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.03.01.02</iigroup>
+                    <iigroupname>Therapy services</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>05.03.02</iigroup>
+                <iigroupname>Group and cooperation in education and family counselling</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.04</iigroup>
+            <iigroupname>Special care for the developmentally disabled</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.04.00</iigroup>
+                <iigroupname>General organisation, guidance and supervision of special care for people with developmental disabilities</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.04.01</iigroup>
+                <iigroupname>Client-specific work in special care for people with developmental disabilities</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>05.04.01.00</iigroup>
+                    <iigroupname>Social counselling for people with developmental disabilities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.04.01.01</iigroup>
+                    <iigroupname>Social work in special care for people with developmental disabilities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.04.01.02</iigroup>
+                    <iigroupname>Family work in special care for people with developmental disabilities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.04.01.03</iigroup>
+                    <iigroupname>Counselling for people with developmental disabilities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.04.01.04</iigroup>
+                    <iigroupname>Home care guidance</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.04.01.05</iigroup>
+                    <iigroupname>Work coaching for special care for people with developmental disabilities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.04.01.06</iigroup>
+                    <iigroupname>Family care in special care for people with developmental disabilities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.04.01.07</iigroup>
+                    <iigroupname>Vocational family care for people with developmental disabilities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.04.01.08</iigroup>
+                    <iigroupname>Transport service for the special care of the developmentally disabled</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.04.01.09</iigroup>
+                    <iigroupname>Institutional care for the developmentally disabled</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>05.04.02</iigroup>
+                <iigroupname>Group and community work for special care for people with developmental disabilities</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.05</iigroup>
+            <iigroupname>Home Services</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.05.00</iigroup>
+                <iigroupname>General organisation, management and supervision of home services</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.05.01</iigroup>
+                <iigroupname>Client work in home services</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.05.02</iigroup>
+                <iigroupname>Group and community work in home services</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.06</iigroup>
+            <iigroupname>Confirmation of child support</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.06.00</iigroup>
+                <iigroupname>General organisation, direction and control of child support</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.06.01</iigroup>
+                <iigroupname>Client-specific work on child support</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.06.02</iigroup>
+                <iigroupname>Group and collaborative work on child support enforcement</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.07</iigroup>
+            <iigroupname>Custody and access of children</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.07.01</iigroup>
+                <iigroupname>Client work on securing custody and visitation rights</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>05.07.01.00</iigroup>
+                    <iigroupname>Providing care for a child</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.07.01.01</iigroup>
+                    <iigroupname>Confirmation of an agreement on custody and rights of access</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.07.01.02</iigroup>
+                    <iigroupname>Completion of a statement on custody and rights of access</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>05.07.00</iigroup>
+                <iigroupname>General organisation, guidance and supervision of the exercise of rights of access and custody of children</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.08</iigroup>
+            <iigroupname>Custody and access enforcement mediation</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.08.00</iigroup>
+                <iigroupname>General organisation, guidance and supervision of mediation in the enforcement of rights of custody and access</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.08.01</iigroup>
+                <iigroupname>Client-specific work in child custody and rights of access enforcement mediation</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.08.02</iigroup>
+                <iigroupname>Group and collaborative work in child custody and access enforcement mediation</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.09</iigroup>
+            <iigroupname>Child Protection</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.09.00</iigroup>
+                <iigroupname>General organisation, guidance and supervision of child protection</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.09.01</iigroup>
+                <iigroupname>Client-specific work in child protection</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>05.09.01.00</iigroup>
+                    <iigroupname>Social work in child protection</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.09.01.01</iigroup>
+                    <iigroupname>Custodial care in child protection</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.09.01.02</iigroup>
+                    <iigroupname>Family care in child protection</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.09.01.03</iigroup>
+                    <iigroupname>Family work in child protection</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.09.01.04</iigroup>
+                    <iigroupname>Support person and support family work in child protection</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.09.01.05</iigroup>
+                    <iigroupname>Custodial assistance in child protection</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.09.01.06</iigroup>
+                    <iigroupname>Child protection social counselling</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.09.01.07</iigroup>
+                    <iigroupname>Supportive housing for child protection</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.09.01.08</iigroup>
+                    <iigroupname>Child protection placement service</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.09.01.09</iigroup>
+                    <iigroupname>private placement of children</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.09.01.10</iigroup>
+                    <iigroupname>School counselling service</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.09.01.11</iigroup>
+                    <iigroupname>Child protection peer group service</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>05.09.02</iigroup>
+                <iigroupname>Child protection group and community work</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.10</iigroup>
+            <iigroupname>Childcare</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.10.00</iigroup>
+                <iigroupname>General organisation, management and supervision of day care for children</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.10.01</iigroup>
+                <iigroupname>Client-specific work in child day care</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>05.10.01.00</iigroup>
+                    <iigroupname>Care in nurseries</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.10.01.01</iigroup>
+                    <iigroupname>Family day care</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.10.01.02</iigroup>
+                    <iigroupname>Play activities</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>05.10.02</iigroup>
+                <iigroupname>Childcare group and collaboration</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.11</iigroup>
+            <iigroupname>Integration of immigrants</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.11.00</iigroup>
+                <iigroupname>General organisation, guidance and supervision of the integration of immigrants</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.11.01</iigroup>
+                <iigroupname>Client-specific work on the integration of immigrants</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.11.02</iigroup>
+                <iigroupname>Group and community work for the integration of immigrants</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.12</iigroup>
+            <iigroupname>Support for home care</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.12.00</iigroup>
+                <iigroupname>General organisation, guidance and supervision of home care support</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.12.01</iigroup>
+                <iigroupname>Client-specific work of home care support</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>05.12.01.00</iigroup>
+                    <iigroupname>Home care support (financial support)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.12.01.01</iigroup>
+                    <iigroupname>Home care support service housing</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.12.01.02</iigroup>
+                    <iigroupname>Home care support services</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.12.01.03</iigroup>
+                    <iigroupname>Daytime activities of home care support</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.12.01.04</iigroup>
+                    <iigroupname>Transportation service for home care support</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>05.12.02</iigroup>
+                <iigroupname>Group and community work in support of home care</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.13</iigroup>
+            <iigroupname>Marital mediation</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.13.00</iigroup>
+                <iigroupname>General organisation, direction and supervision of family mediation</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.13.01</iigroup>
+                <iigroupname>Client work in family mediation</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.13.02</iigroup>
+                <iigroupname>Group and community work in family mediation</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.14</iigroup>
+            <iigroupname>Confirmation of spousal support</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.14.00</iigroup>
+                <iigroupname>General organisation, direction and control of the award of spousal maintenance</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.14.01</iigroup>
+                <iigroupname>Client work on spousal maintenance</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.14.02</iigroup>
+                <iigroupname>Parental support group and community work</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.15</iigroup>
+            <iigroupname>Healthcare</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.15.00</iigroup>
+                <iigroupname>General organisation, supervision and control of mental health care</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.15.01</iigroup>
+                <iigroupname>Client-specific work in mental health care</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>05.15.01.00</iigroup>
+                    <iigroupname>Replacement care in residential care</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.15.01.01</iigroup>
+                    <iigroupname>Maintenance care in residential care</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.15.01.02</iigroup>
+                    <iigroupname>Retreatment in residential care</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.15.01.03</iigroup>
+                    <iigroupname>Treatment of withdrawal from residential care</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.15.01.04</iigroup>
+                    <iigroupname>Supportive and intermittent care in residential care</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>05.15.02</iigroup>
+                <iigroupname>Group and community work in residential care</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.16</iigroup>
+            <iigroupname>Social Advocacy</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.16.00</iigroup>
+                <iigroupname>General organisation, direction and supervision of social work</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.16.01</iigroup>
+                <iigroupname>Client-specific work of social welfare ombudsmen</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.16.02</iigroup>
+                <iigroupname>Group and community work in social work</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.17</iigroup>
+            <iigroupname>Services under the Social Welfare Act</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.17.00</iigroup>
+                <iigroupname>General organisation, management and supervision of services under the Social Welfare Act</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.17.01</iigroup>
+                <iigroupname>Client-specific work for services under the Social Welfare Act</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>05.17.01.00</iigroup>
+                    <iigroupname>Family care under the Social Welfare Act</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.17.01.01</iigroup>
+                    <iigroupname>Social work under the Social Welfare Act</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.17.01.03</iigroup>
+                    <iigroupname>Institutional care under the Social Welfare Act</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.17.01.02</iigroup>
+                    <iigroupname>Residential services under the Social Welfare Act</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>05.17.02</iigroup>
+                <iigroupname>Group and community work for services under the Social Welfare Act</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.18</iigroup>
+            <iigroupname>Social Credit</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.18.00</iigroup>
+                <iigroupname>General organisation, management and supervision of social credit</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.18.01</iigroup>
+                <iigroupname>Customer-related work in social credit</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.18.02</iigroup>
+                <iigroupname>Group and community work in social credit</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.19</iigroup>
+            <iigroupname>Support for income support</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.19.00</iigroup>
+                <iigroupname>General organisation, management and control of income support</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.19.01</iigroup>
+                <iigroupname>Client-specific work on income support</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.19.02</iigroup>
+                <iigroupname>Group and community work in the field of income support</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.20</iigroup>
+            <iigroupname>Supporting the employment of the long-term unemployed</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.20.00</iigroup>
+                <iigroupname>General organisation, guidance and supervision of employment support for the long-term unemployed</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.20.01</iigroup>
+                <iigroupname>Customer-specific work to support the employment of the long-term unemployed</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.20.02</iigroup>
+                <iigroupname>Group and community work to support the employment of the long-term unemployed</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.21</iigroup>
+            <iigroupname>Disability Services</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.21.00</iigroup>
+                <iigroupname>General organisation, direction and supervision of services for the disabled</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.21.01</iigroup>
+                <iigroupname>Client-oriented work in disability services</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>05.21.01.00</iigroup>
+                    <iigroupname>Social work in disability services</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.21.01.01</iigroup>
+                    <iigroupname>Personal assistance in disability services</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.21.01.02</iigroup>
+                    <iigroupname>Service guidance for services for people with disabilities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>05.21.01.03</iigroup>
+                    <iigroupname>Housing alteration work for disability services</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>05.21.02</iigroup>
+                <iigroupname>Group and community work in disability services</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>05.22</iigroup>
+            <iigroupname>Supporting the employment of disabled people</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>05.22.00</iigroup>
+                <iigroupname>General organisation, guidance and supervision of employment support for disabled people</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.22.01</iigroup>
+                <iigroupname>Customized work to support the employment of people with disabilities</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>05.22.02</iigroup>
+                <iigroupname>Group and community work to support the employment of people with disabilities</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+        </itemgroups>
+      </itemgroup>
+      <itemgroup>
+        <iigroup>06</iigroup>
+        <iigroupname>TERVEYDENHUOLTO</iigroupname>
+        <itemgroups>
+          <itemgroup>
+            <iigroup>06.00</iigroup>
+            <iigroupname>Service Process Management</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>06.00.00</iigroup>
+                <iigroupname>Organisation of care</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>06.00.01</iigroup>
+                <iigroupname>Maintenance of primary data</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>06.00.02</iigroup>
+                <iigroupname>Management of access and release of patient records</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>06.01</iigroup>
+            <iigroupname>Preventive health care</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>06.01.00</iigroup>
+                <iigroupname>Health counselling</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>06.01.01</iigroup>
+                <iigroupname>Screening</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>06.02</iigroup>
+            <iigroupname>Emergency care and ambulance services</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>06.03</iigroup>
+            <iigroupname>Patient care</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>06.04</iigroup>
+            <iigroupname>Health/medical services</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>06.04.00</iigroup>
+                <iigroupname>Imaging</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>06.04.01</iigroup>
+                <iigroupname>Laboratory activities</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>06.05</iigroup>
+            <iigroupname>Patient-related health care tasks</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>06.06</iigroup>
+            <iigroupname>Patient care cooperation</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>06.06.00</iigroup>
+                <iigroupname>Information exchange between organisations</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>06.06.01</iigroup>
+                <iigroupname>Recruitment assistance tasks</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>06.07</iigroup>
+            <iigroupname>Support services</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>06.07.00</iigroup>
+                <iigroupname>Equipment and medical supply services</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>06.07.01</iigroup>
+                <iigroupname>Auxiliary services</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>06.07.02</iigroup>
+                <iigroupname>Pharmacy</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>06.07.03</iigroup>
+                <iigroupname>Leadership technology</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+        </itemgroups>
+      </itemgroup>
+      <itemgroup>
+        <iigroup>07</iigroup>
+        <iigroupname>DATA MANAGEMENT AND COMMUNICATION SERVICES</iigroupname>
+        <itemgroups>
+          <itemgroup>
+            <iigroup>07.00</iigroup>
+            <iigroupname>Control of data management and communication services</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>07.00.00</iigroup>
+                <iigroupname>Development and management of information management and communication policies</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>07.00.01</iigroup>
+                <iigroupname>Communications market development and governance</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>07.01</iigroup>
+            <iigroupname>Data management and information service</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>07.01.00</iigroup>
+                <iigroupname>Information Security</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>07.01.01</iigroup>
+                <iigroupname>Tietosuoja</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>07.01.02</iigroup>
+                <iigroupname>Development of eGovernment</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>07.01.03</iigroup>
+                <iigroupname>Document management and archiving</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>07.01.04</iigroup>
+                <iigroupname>Information Service</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>07.01.04.00</iigroup>
+                    <iigroupname>Checking and correction of primary data</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>07.01.04.01</iigroup>
+                    <iigroupname>Document transfers</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>07.01.04.02</iigroup>
+                    <iigroupname>Granting of certificates and certificates</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>07.01.05</iigroup>
+                <iigroupname>Statistical Activity</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>07.02</iigroup>
+            <iigroupname>Communication and information</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>07.02.00</iigroup>
+                <iigroupname>Organising communication and information</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>07.02.00.00</iigroup>
+                    <iigroupname>General principles</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>07.02.01</iigroup>
+                <iigroupname>Communication and information</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>07.02.01.00</iigroup>
+                    <iigroupname>External communication</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>07.02.01.01</iigroup>
+                    <iigroupname>Internal communication</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>07.02.01.02</iigroup>
+                    <iigroupname>Marketing</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>07.02.02</iigroup>
+                <iigroupname>Relationship</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>07.02.02.00</iigroup>
+                    <iigroupname>Industry</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>07.02.02.01</iigroup>
+                    <iigroupname>Visits</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>07.02.02.02</iigroup>
+                    <iigroupname>Lobbies</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>07.02.02.03</iigroup>
+                    <iigroupname>Organising events</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>07.02.03</iigroup>
+                <iigroupname>Publication</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>07.02.04</iigroup>
+                <iigroupname>Interpreting services</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>07.03</iigroup>
+            <iigroupname>Development and maintenance of information systems</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>07.03.02</iigroup>
+                <iigroupname>Design and operation of information systems</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>07.03.02.00</iigroup>
+                    <iigroupname>Construction</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>07.03.02.01</iigroup>
+                    <iigroupname>Commissioning</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>07.03.02.02</iigroup>
+                    <iigroupname>License Management</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>07.03.02.03</iigroup>
+                    <iigroupname>Testing</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>07.03.02.04</iigroup>
+                    <iigroupname>Maintenance</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>07.03.02.05</iigroup>
+                    <iigroupname>Integration</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>07.03.02.06</iigroup>
+                    <iigroupname>Support services</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>07.03.00</iigroup>
+                <iigroupname>Information system services control</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>07.03.01</iigroup>
+                <iigroupname>Access control for information systems</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+        </itemgroups>
+      </itemgroup>
+      <itemgroup>
+        <iigroup>08</iigroup>
+        <iigroupname>LICENCE</iigroupname>
+        <itemgroups>
+          <itemgroup>
+            <iigroup>08.00</iigroup>
+            <iigroupname>Transport planning and development</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>08.00.00</iigroup>
+                <iigroupname>Transport planning, development, management and maintenance</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>08.00.00.00</iigroup>
+                    <iigroupname>Decision making by a multi-member body</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>08.00.00.01</iigroup>
+                    <iigroupname>Transport policy</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>08.00.00.02</iigroup>
+                    <iigroupname>Strategic Planning</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>08.00.00.03</iigroup>
+                    <iigroupname>Traffic Safety</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>08.01</iigroup>
+            <iigroupname>Transport services</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>08.01.00</iigroup>
+                <iigroupname>Operational planning and provision of public transport</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>08.01.00.00</iigroup>
+                    <iigroupname>Route planning</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>08.01.00.01</iigroup>
+                    <iigroupname>Provision of public transport services</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>08.01.00.02</iigroup>
+                    <iigroupname>Payment and ticketing systems</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>08.01.01</iigroup>
+                <iigroupname>Transport organisation</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>08.01.01.00</iigroup>
+                    <iigroupname>Transport of disabled persons and ambulances</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>08.01.01.01</iigroup>
+                    <iigroupname>School transport</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>08.01.01.02</iigroup>
+                    <iigroupname>Service lines</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>08.01.02</iigroup>
+                <iigroupname>Port operations and vessel services</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>08.01.03</iigroup>
+                <iigroupname>Traffic Control</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>08.01.03.00</iigroup>
+                    <iigroupname>Parking enforcement</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>08.01.03.01</iigroup>
+                    <iigroupname>Parking fines</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>08.01.03.02</iigroup>
+                    <iigroupname>Resident and business parking permits</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>08.01.03.03</iigroup>
+                    <iigroupname>Parking equipment</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>08.01.03.04</iigroup>
+                    <iigroupname>Moving vehicles</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>08.01.03.05</iigroup>
+                    <iigroupname>Pedestrian traffic control</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+        </itemgroups>
+      </itemgroup>
+      <itemgroup>
+        <iigroup>09</iigroup>
+        <iigroupname>SECURITY AND GENERAL ORDER</iigroupname>
+        <itemgroups>
+          <itemgroup>
+            <iigroup>09.00</iigroup>
+            <iigroupname>Security and public order management</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>09.00.00</iigroup>
+                <iigroupname>Decision making by a multi-member body</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>09.01</iigroup>
+            <iigroupname>People's Defence</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>09.02</iigroup>
+            <iigroupname>Police and order</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>09.03</iigroup>
+            <iigroupname>Enforcement, penalties and criminal policy</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>09.04</iigroup>
+            <iigroupname>Border control</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>09.05</iigroup>
+            <iigroupname>Fire and rescue</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>09.05.00</iigroup>
+                <iigroupname>Accident prevention</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>09.05.01</iigroup>
+                <iigroupname>Fire-fighting and rescue</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>09.06</iigroup>
+            <iigroupname>Civil protection and emergency preparedness</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>09.06.00</iigroup>
+                <iigroupname>Public Emergency Planning</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+        </itemgroups>
+      </itemgroup>
+      <itemgroup>
+        <iigroup>10</iigroup>
+        <iigroupname>CONSTRUCTION, CONSTRUCTION AND HOUSING</iigroupname>
+        <itemgroups>
+          <itemgroup>
+            <iigroup>10.00</iigroup>
+            <iigroupname>Land use, construction and housing management</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>10.00.00</iigroup>
+                <iigroupname>Policy management</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>10.00.00.00</iigroup>
+                    <iigroupname>Decision making by a multi-member body</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.00.01</iigroup>
+                    <iigroupname>Structural model</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.00.02</iigroup>
+                    <iigroupname>Development of a policy programme</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.00.03</iigroup>
+                    <iigroupname>Land use planning</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>10.00.01</iigroup>
+                <iigroupname>Purchasing</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>10.00.01.00</iigroup>
+                    <iigroupname>Purchasing of land</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.01.01</iigroup>
+                    <iigroupname>Purchase Right Procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.01.02</iigroup>
+                    <iigroupname>Redemption procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.01.03</iigroup>
+                    <iigroupname>Area takeover</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.01.04</iigroup>
+                    <iigroupname>Development Area Procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.01.05</iigroup>
+                    <iigroupname>Development compensation procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.01.06</iigroup>
+                    <iigroupname>Contract of use procedure</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>10.00.02</iigroup>
+                <iigroupname>Disposal of land</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>10.00.02.00</iigroup>
+                    <iigroupname>Sale of developed plots</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.02.01</iigroup>
+                    <iigroupname>Sale of developed plots on the basis of purchase offers</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.02.02</iigroup>
+                    <iigroupname>Letting of developed plots</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.02.03</iigroup>
+                    <iigroupname>Disposal of other land</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.02.04</iigroup>
+                    <iigroupname>Sale of other land</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.02.05</iigroup>
+                    <iigroupname>Rental of other land</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.02.06</iigroup>
+                    <iigroupname>Land rental to municipality</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.00.02.07</iigroup>
+                    <iigroupname>Release of land for use</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>10.01</iigroup>
+            <iigroupname>Surveying and surveying</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>10.01.00</iigroup>
+                <iigroupname>Property formation, land division, street compensation</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>10.01.00.00</iigroup>
+                    <iigroupname>Plot subdivision for formation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.01.00.01</iigroup>
+                    <iigroupname>Section for blocking of an area</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.01.00.02</iigroup>
+                    <iigroupname>Segmenting a range into a state</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.01.00.03</iigroup>
+                    <iigroupname>Revenue delivery</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.01.00.04</iigroup>
+                    <iigroupname>Decisions of the real estate registrar</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.01.00.05</iigroup>
+                    <iigroupname>Elementary plot allocation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.01.00.06</iigroup>
+                    <iigroupname>Takeover of land</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.01.00.07</iigroup>
+                    <iigroupname>Formation and annexation of private water retention and other separate areas</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.01.00.08</iigroup>
+                    <iigroupname>Property definition</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.01.00.09</iigroup>
+                    <iigroupname>Area acquired by the municipality to be included in a common area</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.01.00.10</iigroup>
+                    <iigroupname>Fishing zone delimitation under fisheries legislation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.01.00.11</iigroup>
+                    <iigroupname>Space exchange</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.01.00.12</iigroup>
+                    <iigroupname>Claiming and parcelling of a parcel of land</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.01.00.13</iigroup>
+                    <iigroupname>Transfer and conversion of a part of a common property into a holding</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.01.00.14</iigroup>
+                    <iigroupname>Moving a sub-unit</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>10.01.01</iigroup>
+                <iigroupname>Earth and rock exploration</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>10.01.02</iigroup>
+                <iigroupname>Measurements and spatial data management</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>10.01.02.00</iigroup>
+                    <iigroupname>Image and image</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.01.02.01</iigroup>
+                    <iigroupname>Metering (construction, renovation, industrial, road, water, pipeline network) </iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>10.02</iigroup>
+            <iigroupname>Rural Planning</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>10.02.00</iigroup>
+                <iigroupname>Rural Planning</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>10.02.01</iigroup>
+                <iigroupname>Inter-municipal master planning</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>10.02.02</iigroup>
+                <iigroupname>Survey planning/sub-survey planning</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>10.02.03</iigroup>
+                <iigroupname>Subdivision planning</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>10.02.03.00</iigroup>
+                    <iigroupname>Development of a zoning plan</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.02.03.01</iigroup>
+                    <iigroupname>Amendment of the general plan</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.02.03.02</iigroup>
+                    <iigroupname>Revocation of a zoning plan (demolition, deviation)</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>10.02.04</iigroup>
+                <iigroupname>Rural Planning</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>10.02.05</iigroup>
+                <iigroupname>Ban on building and prohibitions/restrictions on measures</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>10.02.06</iigroup>
+                <iigroupname>Name and Addresses</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>10.03</iigroup>
+            <iigroupname>Construction, maintenance and operation</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>10.03.00</iigroup>
+                <iigroupname>Construction supervision</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>10.03.00.00</iigroup>
+                    <iigroupname>Development of a building regulation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.01</iigroup>
+                    <iigroupname>Deviation authorisation procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.02</iigroup>
+                    <iigroupname>Planning permission procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.03</iigroup>
+                    <iigroupname>Construction permit procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.04</iigroup>
+                    <iigroupname>Procedure for notifying measures</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.05</iigroup>
+                    <iigroupname>Measure approval procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.06</iigroup>
+                    <iigroupname>Notification procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.07</iigroup>
+                    <iigroupname>Maize work permit procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.08</iigroup>
+                    <iigroupname>Disassembly notification procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.09</iigroup>
+                    <iigroupname>Unloading authorisation procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.10</iigroup>
+                    <iigroupname>Temporary building permit procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.11</iigroup>
+                    <iigroupname>Meeting room matters</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.12</iigroup>
+                    <iigroupname>Material notification procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.13</iigroup>
+                    <iigroupname>Material declaration procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.14</iigroup>
+                    <iigroupname>Construction load procedure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.15</iigroup>
+                    <iigroupname>Continuous monitoring of the built environment</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.00.16</iigroup>
+                    <iigroupname>Permits for the siting of wires and equipment</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>10.03.01</iigroup>
+                <iigroupname>Design, construction and maintenance of peripheral areas</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>10.03.01.00</iigroup>
+                    <iigroupname>Civil engineering (preconstruction, underground construction)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.01.01</iigroup>
+                    <iigroupname>Design, construction and maintenance of roads (streets, roads, bridges, tunnels, pavements, footpaths, cycle paths, separately for urban and private roads)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.01.02</iigroup>
+                    <iigroupname>Design, construction and maintenance of recreational and green areas</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.01.03</iigroup>
+                    <iigroupname>Municipal engineering design, construction and maintenance (water and sewerage, other pipelines and equipment)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.01.04</iigroup>
+                    <iigroupname>Design, construction and maintenance of water areas (port areas, waterfront areas, waterfront structures; quays, shipping lanes, islands)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.01.05</iigroup>
+                    <iigroupname>Management of agricultural and forestry holdings</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.03.01.06</iigroup>
+                    <iigroupname>Use of common land (granting of licences)</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>10.03.02</iigroup>
+                <iigroupname>Construction, maintenance and operation of buildings</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>10.04</iigroup>
+            <iigroupname>Access</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>10.04.03</iigroup>
+                <iigroupname>Rehabilitation advice and grants</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>10.04.03.00</iigroup>
+                    <iigroupname>Rehabilitation advice</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>10.04.03.01</iigroup>
+                    <iigroupname>Repair, energy and lift subsidies</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>10.04.00</iigroup>
+                <iigroupname>Housing development control (related to land use implementation)</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>10.04.01</iigroup>
+                <iigroupname>Rights of occupancy</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>10.04.02</iigroup>
+                <iigroupname>Housing rental</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+        </itemgroups>
+      </itemgroup>
+      <itemgroup>
+        <iigroup>11</iigroup>
+        <iigroupname>ENVIRONMENTAL MATTERS</iigroupname>
+        <itemgroups>
+          <itemgroup>
+            <iigroup>11.00</iigroup>
+            <iigroupname>Environmental Governance</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>11.00.00</iigroup>
+                <iigroupname>Decision making by a multi-member body</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>11.00.01</iigroup>
+                <iigroupname>Drafting of environmental agreements</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>11.00.02</iigroup>
+                <iigroupname>Environmental guidance</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>11.00.03</iigroup>
+                <iigroupname>Efficiency</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>11.00.04</iigroup>
+                <iigroupname>Environment (policy) programme development and monitoring</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>11.00.05</iigroup>
+                <iigroupname>Environmental report and accounts</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>11.00.06</iigroup>
+                <iigroupname>Production of municipal environmental protection action plans and protection plans</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>11.00.07</iigroup>
+                <iigroupname>Compilation of environmental protection regulations</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>11.00.08</iigroup>
+                <iigroupname>Establishment of environmental protection regulations</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>11.01</iigroup>
+            <iigroupname>Environmental Protection</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>11.01.00</iigroup>
+                <iigroupname>Environmental protection licensing and notification</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.01.00.00</iigroup>
+                    <iigroupname>Participation in the notification and enforcement of decisions of other licensing authorities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.00.01</iigroup>
+                    <iigroupname>Processing of environmental permits issued by the municipality (granting, modification, extension, termination of permit)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.00.02</iigroup>
+                    <iigroupname>Notification of the municipal environmental authority of a non-regular activity</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.00.03</iigroup>
+                    <iigroupname>Notification of the municipal environmental authority of an exceptional situation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.00.04</iigroup>
+                    <iigroupname>Monitoring and monitoring of all environmental permits</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.00.05</iigroup>
+                    <iigroupname>Giving opinions to the authorities on environmental protection matters or permits pending in the municipality</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.01.01</iigroup>
+                <iigroupname>Permitting and notification matters relating to water bodies</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.01.01.00</iigroup>
+                    <iigroupname>Participation in the notification and enforcement of decisions of other licensing authorities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.01.01</iigroup>
+                    <iigroupname>Processing of municipal permits issued under the Water Act (granting, modification, extension, termination of permit)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.01.02</iigroup>
+                    <iigroupname>Processing of the notification of closure</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.01.03</iigroup>
+                    <iigroupname>Notification of dredged material placement in a water body</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.01.04</iigroup>
+                    <iigroupname>Permit for removal or modification of dredging structures</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.01.05</iigroup>
+                    <iigroupname>Permit for the floating of wood not stripped of its bark</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.01.06</iigroup>
+                    <iigroupname>Permission to temporarily change the water level or course for the purpose of floating</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.01.07</iigroup>
+                    <iigroupname>Authorisation for drainage in certain circumstances</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.01.08</iigroup>
+                    <iigroupname>Authorisation to discharge drainage water from an embankment into a watercourse</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.01.09</iigroup>
+                    <iigroupname>Authorisation to carry out water-related studies in certain cases</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.01.10</iigroup>
+                    <iigroupname>Observation and monitoring of all permits under the Water Act</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.01.02</iigroup>
+                <iigroupname>Transport licensing</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.01.02.00</iigroup>
+                    <iigroupname>Participation in the notification and enforcement of decisions of other licensing authorities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.02.01</iigroup>
+                    <iigroupname>Permits issued by the municipality for competitions or exercises under the Water Transport Act</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.02.02</iigroup>
+                    <iigroupname>Monitoring and monitoring of all permits related to waterborne transport</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.01.03</iigroup>
+                <iigroupname>Multimodal transport licensing</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.01.03.00</iigroup>
+                    <iigroupname>Participation in the notification and enforcement of decisions of other licensing authorities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.03.01</iigroup>
+                    <iigroupname>Processing of permits issued by the municipality in accordance with the law on off-road transport</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.03.02</iigroup>
+                    <iigroupname>Motorised snowmobile routes (approval of change of route and route holder, decision to discontinue a route)</iigroupname>
+                    </itemgroup>>
+                  <itemgroup>
+                    <iigroup>11.01.03.03</iigroup>
+                    <iigroupname>Processing of authorisations to organise off-road competitions and training</iigroupname>.
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.03.04</iigroup>
+                    <iigroupname>Monitoring and monitoring of all off-road permits</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.01.04</iigroup>
+                <iigroupname>Nature Protection Licensing</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.01.04.00</iigroup>
+                    <iigroupname>Participation in the notification and enforcement of nature protection decisions by other authorities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.04.01</iigroup>
+                    <iigroupname>Decision on the protection/removal of a natural monument on private land (LSL 26 and 28§)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.04.02</iigroup>
+                    <iigroupname>Monitoring and monitoring of all nature protection permits</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.01.05</iigroup>
+                <iigroupname>Water and waste management licensing</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.01.05.00</iigroup>
+                    <iigroupname>Exemption of a property from the obligation to connect to the municipal water supply system</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.05.01</iigroup>
+                    <iigroupname>Exemption of individual buildings for the treatment of domestic water</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.05.02</iigroup>
+                    <iigroupname>Permit for the discharge of waste water into another ditch</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.01.05.03</iigroup>
+                    <iigroupname>Authorisation for the construction of a sewer under a private road</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.01.06</iigroup>
+                <iigroupname>Waste management licensing</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>11.02</iigroup>
+            <iigroupname>Environmental health care</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>11.02.00</iigroup>
+                <iigroupname>Food control</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.02.00.00</iigroup>
+                    <iigroupname>Food control by health inspectors</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.02.00.01</iigroup>
+                    <iigroupname>Veterinary Surveillance</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.02.01</iigroup>
+                <iigroupname>Product Safety</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>11.02.02</iigroup>
+                <iigroupname>Health protection</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>11.02.03</iigroup>
+                <iigroupname>Chemicals</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>11.02.04</iigroup>
+                <iigroupname>Tobacco and nicotine replacement</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>11.02.05</iigroup>
+                <iigroupname>Hygiene</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.02.05.00</iigroup>
+                    <iigroupname>Hospital Hygiene</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.02.06</iigroup>
+                <iigroupname>Prevention</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>11.02.07</iigroup>
+                <iigroupname>Preventive Care</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>11.03</iigroup>
+            <iigroupname>Environmental monitoring and prevention</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>11.03.00</iigroup>
+                <iigroupname>Monitoring of ambient air quality</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.03.00.00</iigroup>
+                    <iigroupname>Participation in the notification and enforcement of decisions of other licensing authorities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.00.01</iigroup>
+                    <iigroupname>Processing of requests for unqualified opinions (incoming)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.00.02</iigroup>
+                    <iigroupname>Monitoring of poor quality</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.00.03</iigroup>
+                    <iigroupname>Transport emissions monitoring</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.03.01</iigroup>
+                <iigroupname>Noise and vibration pollution control and prevention</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.03.01.00</iigroup>
+                    <iigroupname>Processing of noise reports</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.01.01</iigroup>
+                    <iigroupname>Approval of noise report</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.01.02</iigroup>
+                    <iigroupname>Discussion of the action plan for environmental protection</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.01.03</iigroup>
+                    <iigroupname>Monitoring of noise and vibration sites</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.01.04</iigroup>
+                    <iigroupname>Measurement of noise and vibration sources for noise surveys</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.03.02</iigroup>
+                <iigroupname>Waste management control</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.03.02.00</iigroup>
+                    <iigroupname>Regional waste management planning</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.02.01</iigroup>
+                    <iigroupname>Planned control of waste management and treated water</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.03.03</iigroup>
+                <iigroupname>Supervision of environmental protection</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.03.03.00</iigroup>
+                    <iigroupname>Dealing with breaches of or failure to comply with irrigation regulations</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.03.01</iigroup>
+                    <iigroupname>Groundwater control and general control of water legislation</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.03.04</iigroup>
+                <iigroupname>General monitoring of the state of the municipal environment</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.03.04.00</iigroup>
+                    <iigroupname>Ordering the clean-up of contaminated sites</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.04.01</iigroup>
+                    <iigroupname>Provision of warning and corrective action for environmental infringements</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.04.02</iigroup>
+                    <iigroupname>Imposition of a fine or periodic penalty payment for environmental infringements</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.04.03</iigroup>
+                    <iigroupname>Reporting an environmental offence</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.03.05</iigroup>
+                <iigroupname>Conducting environmental protection studies on municipal territory</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.03.05.00</iigroup>
+                    <iigroupname>Execution of environmental protection studies in the municipality</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.05.01</iigroup>
+                    <iigroupname>Nature Biodiversity</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.05.02</iigroup>
+                    <iigroupname>Nature Reserves</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.03.06</iigroup>
+                <iigroupname>Organisation of environmental protection advice and guidance on municipal territory</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.03.06.00</iigroup>
+                    <iigroupname>Organisation of advice and guidance on environmental protection in the municipality</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.06.01</iigroup>
+                    <iigroupname>Exhibitions, nature schools, nature walks and other events</iigroupname>
+                    </itemgroup>>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.03.07</iigroup>
+                <iigroupname>Soil Protection and Control</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.03.07.00</iigroup>
+                    <iigroupname>Landfills and their control</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.07.01</iigroup>
+                    <iigroupname>Remaining waste (sand, clay, stones, wood, etc.)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.07.02</iigroup>
+                    <iigroupname>Control reports on manure spreading</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.03.07.03</iigroup>
+                    <iigroupname>Other storage (electric poles, etc.)</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.03.08</iigroup>
+                <iigroupname>Camping areas</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.03.08.00</iigroup>
+                    <iigroupname>Reporting campsites</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.03.09</iigroup>
+                <iigroupname>Natural disasters (floods, storms)</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>11.04</iigroup>
+            <iigroupname>Water and waste management control</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>11.04.00</iigroup>
+                <iigroupname>Supervision of water management</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>11.04.01</iigroup>
+                <iigroupname>Wastewater management control</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>11.05</iigroup>
+            <iigroupname>Protection and management of landscape and cultural environment</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>11.05.00</iigroup>
+                <iigroupname>Guidance for the protection and management of the landscape and cultural environment</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.05.00.00</iigroup>
+                    <iigroupname>Participation in the preparation of national landscape protection and cultural environment programmes</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.05.00.01</iigroup>
+                    <iigroupname>Participation in Natura 2000 projects</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.05.00.02</iigroup>
+                    <iigroupname>Participation in the creation and protection of national parks</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.05.00.03</iigroup>
+                    <iigroupname>Participation in the establishment and protection of nature parks</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.05.01</iigroup>
+                <iigroupname>Care and management of natural heritage</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.05.01.00</iigroup>
+                    <iigroupname>Decisions on the protection and termination of protection of natural monuments</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>11.05.02</iigroup>
+                <iigroupname>Protection and management of municipal landscape and cultural sites</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>11.05.02.00</iigroup>
+                    <iigroupname>Production of programmes for the protection and management of the landscape and cultural environment of the municipality</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.05.02.01</iigroup>
+                    <iigroupname>Protection of the growing environment and natural habitats</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>11.05.02.02</iigroup>
+                    <iigroupname>Protection of the ethical values of the landscape</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+        </itemgroups>
+      </itemgroup>
+      <itemgroup>
+        <iigroup>12</iigroup>
+        <iigroupname>EDUCATION AND EDUCATION</iigroupname>
+        <itemgroups>
+          <itemgroup>
+            <iigroup>12.00</iigroup>
+            <iigroupname>Education and Culture Guidance</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>12.00.00</iigroup>
+                <iigroupname>Education policy planning (policy statements)</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.00.00.00</iigroup>
+                    <iigroupname>Decision making by a multi-member body</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.00.01</iigroup>
+                <iigroupname>Training and education planning</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.00.02</iigroup>
+                <iigroupname>Experimentation and development activities (see administrative affairs 00.01.05)</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>12.01</iigroup>
+            <iigroupname>Pupil and Student Affairs</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>12.01.00</iigroup>
+                <iigroupname>Pupil selection and admission</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.01.00.00</iigroup>
+                    <iigroupname>Application for initial education</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.00.01</iigroup>
+                    <iigroupname>School permit (school permit = school pupil)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.00.02</iigroup>
+                    <iigroupname>School permit one year earlier than the prescribed one</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.00.03</iigroup>
+                    <iigroupname>Permission to attend school one year later than the prescribed date</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.00.04</iigroup>
+                    <iigroupname>Admission to preparatory teaching for language and culture groups</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.00.05</iigroup>
+                    <iigroupname>Election to a special class</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.00.06</iigroup>
+                    <iigroupname>Statement of resignation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.00.07</iigroup>
+                    <iigroupname>Pupil transfer to secondary school</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.00.08</iigroup>
+                    <iigroupname>Enrolment/transfer and discharge</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.00.09</iigroup>
+                    <iigroupname>Summary search</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.00.10</iigroup>
+                    <iigroupname>Right to attend school in a foreign municipality</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.00.11</iigroup>
+                    <iigroupname>Right of access to another school district</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.00.12</iigroup>
+                    <iigroupname>Transfer to another school</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.01.01</iigroup>
+                <iigroupname>Condition assessment</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.01.01.00</iigroup>
+                    <iigroupname>Written Assessments</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.01.01</iigroup>
+                    <iigroupname>Initial Evaluation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.01.02</iigroup>
+                    <iigroupname>Assessment Discussions</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.01.03</iigroup>
+                    <iigroupname>Debate</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.01.04</iigroup>
+                    <iigroupname>Renewal of assessment</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.01.05</iigroup>
+                    <iigroupname>Raising the grade on the diploma</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.01.06</iigroup>
+                    <iigroupname>Approval of qualifications</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.01.02</iigroup>
+                <iigroupname>Organisation of in-service training</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.01.02.00</iigroup>
+                    <iigroupname>Switching from one subject to another</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.02.01</iigroup>
+                    <iigroupname>Suspension of a pupil from school for the time being</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.02.02</iigroup>
+                    <iigroupname>Suspension from teaching</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.02.03</iigroup>
+                    <iigroupname>Special educational arrangements for pupils</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.02.04</iigroup>
+                    <iigroupname>Extension of the period of attendance of a pupil</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.02.05</iigroup>
+                    <iigroupname>Representatives</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.02.06</iigroup>
+                    <iigroupname>Out-of-school teaching</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.01.03</iigroup>
+                <iigroupname>Occupational Health</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.01.03.00</iigroup>
+                    <iigroupname>Morning and evening activities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.03.01</iigroup>
+                    <iigroupname>School travel allowance (upper secondary school)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.03.02</iigroup>
+                    <iigroupname>Social assistance</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.03.03</iigroup>
+                    <iigroupname>School psychology</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.03.04</iigroup>
+                    <iigroupname>School counselling</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.03.05</iigroup>
+                    <iigroupname>School meals</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.03.06</iigroup>
+                    <iigroupname>High School Student Council</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.01.04</iigroup>
+                <iigroupname>Surgery</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.01.04.00</iigroup>
+                    <iigroupname>Giving a written warning</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.04.01</iigroup>
+                    <iigroupname>Expired sessions</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.01.04.02</iigroup>
+                    <iigroupname>Removal</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.01.05</iigroup>
+                <iigroupname>Home-school cooperation</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.01.06</iigroup>
+                <iigroupname>Rewards and scholarships</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.01.07</iigroup>
+                <iigroupname>Student exchange</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.01.08</iigroup>
+                <iigroupname>Community activities</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.01.09</iigroup>
+                <iigroupname>Recreational activities</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>12.02</iigroup>
+            <iigroupname>Delivering education</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>12.02.00</iigroup>
+                <iigroupname>Evaluation of the quality of education and teaching (See administrative affairs 00.01.03)</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.02.01</iigroup>
+                <iigroupname>Teaching tasks</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.02.01.00</iigroup>
+                    <iigroupname>Organising examinations</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.02.01.01</iigroup>
+                    <iigroupname>Operational control</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.02.02</iigroup>
+                <iigroupname>Learning about working life = Learning on the job</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.02.03</iigroup>
+                <iigroupname>Master's degree</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>12.03</iigroup>
+            <iigroupname>Cultural Services</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>12.03.00</iigroup>
+                <iigroupname>Planning and management of cultural activities</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.03.01</iigroup>
+                <iigroupname>Cultural action</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.03.01.00</iigroup>
+                    <iigroupname>Cultural events</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.03.01.01</iigroup>
+                    <iigroupname>Official activities (courses, events, camps, training, workshops, visits by artists to hospitals and institutions)</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.03.02</iigroup>
+                <iigroupname>Library Operations</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.03.02.00</iigroup>
+                    <iigroupname>Maintenance of materials and collections</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.03.02.01</iigroup>
+                    <iigroupname>Lending activities and control</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.03.02.02</iigroup>
+                    <iigroupname>Lending</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.03.02.03</iigroup>
+                    <iigroupname>Requesting library (library trucks, patient libraries, home)</iigroupname>
+                    </itemgroup>.
+                  <itemgroup>.
+                    <iigroup>12.03.02.04</iigroup>
+                    <iigroupname>Author visits and events</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.03.03</iigroup>
+                <iigroupname>Museum Activities</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.03.03.00</iigroup>
+                    <iigroupname>Collection management (collection planning and programming, acquisition, cataloguing, storage, loan/exhibition, display, concept and content design, technology and logistics)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.03.03.01</iigroup>
+                    <iigroupname>Conservation (reception and check-in of works and objects, possible conservation, supervision of packaging and transport, definition of exhibition conditions and supervision of conditions during the exhibition, cleaning)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.03.03.02</iigroup>
+                    <iigroupname>Photography and documentation; archiving (photography for exhibition, publication and archive, image processing and printing, archiving of images; media monitoring and journal archiving)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.03.03.03</iigroup>
+                    <iigroupname>General services</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.03.03.04</iigroup>
+                    <iigroupname>Museum education (developing and updating museum education programmes, producing content, communicating information - exhibition information, developing and providing educational material, guided tours, workshops, lectures)</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.03.04</iigroup>
+                <iigroupname>Music and orchestral activities</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.03.04.00</iigroup>
+                    <iigroupname>Concert activities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.03.04.01</iigroup>
+                    <iigroupname>Public Education</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.03.04.02</iigroup>
+                    <iigroupname>Levels</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.03.04.03</iigroup>
+                    <iigroupname>Touring</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.03.04.04</iigroup>
+                    <iigroupname>Supply Management</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.03.05</iigroup>
+                <iigroupname>Theatrical, ballet and opera activities</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.03.05.00</iigroup>
+                    <iigroupname>Organisation of performances</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.03.06</iigroup>
+                <iigroupname>Civic and zoological activities</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>12.04</iigroup>
+            <iigroupname>Municipal Action</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>12.04.00</iigroup>
+                <iigroupname>Community Governance</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.04.00.00</iigroup>
+                    <iigroupname>Children's physical education (camps and summer courses)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.04.00.01</iigroup>
+                    <iigroupname>Youth sports</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.04.00.02</iigroup>
+                    <iigroupname>Working age physical activity (health and fitness)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.04.00.03</iigroup>
+                    <iigroupname>Particular group physical activity</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.04.00.04</iigroup>
+                    <iigroupname>Campaigns and events</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.04.01</iigroup>
+                <iigroupname>Municipal services</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.04.01.00</iigroup>
+                    <iigroupname>Operation of sports facilities (gymnasiums, swimming pools, ice rinks, fitness centres)</iigroupname>
+                    </itemgroup>>
+                  <itemgroup>
+                    <iigroup>12.04.01.01</iigroup>
+                    <iigroupname>Reservations for training, matches and competitions</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.04.01.02</iigroup>
+                    <iigroupname>Creating conditions for international and national sporting events</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.04.02</iigroup>
+                <iigroupname>Outdoor Sports Services</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.04.02.00</iigroup>
+                    <iigroupname>Maintenance of outdoor sports facilities and areas (sports centres, sports and ball fields, outdoor sports tracks, fitness tracks, ski tracks, swimming pools, outdoor recreation areas)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.04.02.01</iigroup>
+                    <iigroupname>Reservations for training, matches and competitions</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.04.02.02</iigroup>
+                    <iigroupname>International and national sporting events</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.04.03</iigroup>
+                <iigroupname>Grants for local government (see financial affairs 02.05.01)</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>12.05</iigroup>
+            <iigroupname>Children and Youth Services</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>12.05.00</iigroup>
+                <iigroupname>Youth Education</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.05.01</iigroup>
+                <iigroupname>Information and advice</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.05.02</iigroup>
+                <iigroupname>Youth work</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.05.02.00</iigroup>
+                    <iigroupname>Regional, social and multicultural youth work</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.05.03</iigroup>
+                <iigroupname>Club activities for schoolchildren</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.05.04</iigroup>
+                <iigroupname>Camps and events</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.05.05</iigroup>
+                <iigroupname>Workshop activities</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.05.06</iigroup>
+                <iigroupname>Supporting services</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.05.06.00</iigroup>
+                    <iigroupname>Grants (see financial affairs 02.05.01)</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>12.05.06.01</iigroup>
+                    <iigroupname>Use and supervision of youth facilities</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>12.06</iigroup>
+            <iigroupname>Operations of churches and religious communities</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>12.06.00</iigroup>
+                <iigroupname>Canonical and doctrinal affairs</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.06.01</iigroup>
+                <iigroupname>Community work</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.06.02</iigroup>
+                <iigroupname>Worship and Music</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.06.03</iigroup>
+                <iigroupname>Parish ministry</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>12.06.03.00</iigroup>
+                    <iigroupname>Mental health guidance</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>12.06.04</iigroup>
+                <iigroupname>Act of authorization</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>12.06.05</iigroup>
+                <iigroupname>Lounger activities</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+        </itemgroups>
+      </itemgroup>
+      <itemgroup>
+        <iigroup>13</iigroup>
+        <iigroupname>RESEARCH AND DEVELOPMENT</iigroupname>
+        <itemgroups>
+          <itemgroup>
+            <iigroup>13.00</iigroup>
+            <iigroupname>Research and development management</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>13.00.00</iigroup>
+                <iigroupname>Research permits</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>13.01</iigroup>
+            <iigroupname>Planning, organisation and implementation of research and development activities</iigroupname>
+            </itemgroup>
+          <itemgroup>
+            <iigroup>13.02</iigroup>
+            <iigroupname>Research ethics</iigroupname>
+            </itemgroup>
+        </itemgroups>
+      </itemgroup>
+      <itemgroup>
+        <iigroup>14</iigroup>
+        <iigroupname>IN BUSINESS AND EMPLOYMENT SERVICES</iigroupname>
+        <itemgroups>
+          <itemgroup>
+            <iigroup>14.00</iigroup>
+            <iigroupname>Economic and employment guidance</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>14.00.00</iigroup>
+                <iigroupname>Economic and labour policy</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>14.00.00.00</iigroup>
+                    <iigroupname>Decision making by a multi-member institution</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>14.00.01</iigroup>
+                <iigroupname>Economic and labour market planning and development</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>14.00.01.00</iigroup>
+                    <iigroupname>Development of an economic programme</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>14.01</iigroup>
+            <iigroupname>Promoting business</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>14.01.00</iigroup>
+                <iigroupname>Cooperation and business support</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>14.01.00.00</iigroup>
+                    <iigroupname>Facilities</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>14.02</iigroup>
+            <iigroupname>Promotion of tourism</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>14.02.00</iigroup>
+                <iigroupname>Tourism Strategy</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>14.02.01</iigroup>
+                <iigroupname>Tourism Advertising</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>14.03</iigroup>
+            <iigroupname>Rural economic activity</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>14.03.00</iigroup>
+                <iigroupname>Agriculture</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>14.03.00.00</iigroup>
+                    <iigroupname>EU and national aid</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.03.00.01</iigroup>
+                    <iigroupname>Subsidy control</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.03.00.02</iigroup>
+                    <iigroupname>Compensation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.03.00.03</iigroup>
+                    <iigroupname>Plant protection</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.03.00.04</iigroup>
+                    <iigroupname>Training and advisory services</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.03.00.05</iigroup>
+                    <iigroupname>Lending, subsidies and other support for farmers</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.03.00.06</iigroup>
+                    <iigroupname>Production management</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.03.00.07</iigroup>
+                    <iigroupname>Farmers' abandonment aid, abandonment premium and abandonment compensation</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>14.03.01</iigroup>
+                <iigroupname>Leasing activity</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>14.03.02</iigroup>
+                <iigroupname>Forestry</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>14.03.03</iigroup>
+                <iigroupname>Fisheries</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>14.03.03.00</iigroup>
+                    <iigroupname>Planning</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.03.03.01</iigroup>
+                    <iigroupname>Fisheries Obligation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.03.03.02</iigroup>
+                    <iigroupname>Fisheries control</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.03.03.03</iigroup>
+                    <iigroupname>Non-fishing and catch limits</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.03.03.04</iigroup>
+                    <iigroupname>Fisheries Advisory Council</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.03.03.05</iigroup>
+                    <iigroupname>Fishing areas and municipalities</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.03.03.06</iigroup>
+                    <iigroupname>Surveys (diseases, water quality and lake status, fishing trips)</iigroupname>
+                    </itemgroup>>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>14.03.04</iigroup>
+                <iigroupname>Porotalous</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>14.03.05</iigroup>
+                <iigroupname>Hunting and Game</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>14.03.06</iigroup>
+                <iigroupname>Game Management and Hunting Regulation</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>14.04</iigroup>
+            <iigroupname>Planning, organisation and implementation of fuel and energy production and supply</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>14.04.00</iigroup>
+                <iigroupname>Governance of fuel and energy production and supply</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>14.04.00.00</iigroup>
+                    <iigroupname>Energy policy</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.04.00.01</iigroup>
+                    <iigroupname>Municipal energy planning and organisation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.04.00.02</iigroup>
+                    <iigroupname>Participation in energy production</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>14.04.01</iigroup>
+                <iigroupname>Fuel and energy production</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>14.04.01.00</iigroup>
+                    <iigroupname>Municipal own energy production</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>14.05</iigroup>
+            <iigroupname>Organisation and implementation of water supply and sanitation</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>14.05.00</iigroup>
+                <iigroupname>Organisation and implementation of water supply and sanitation</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>14.05.00.00</iigroup>
+                    <iigroupname>Municipal water supply planning and organisation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.05.00.01</iigroup>
+                    <iigroupname>Participation in the notification and enforcement of decisions of other authorising authorities relating to water supply</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>14.05.01</iigroup>
+                <iigroupname>Organisation of waste water management</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>14.05.01.00</iigroup>
+                    <iigroupname>Planning and organisation of urban waste water management</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.05.01.01</iigroup>
+                    <iigroupname>Participation in the notification and enforcement of decisions of other authorising authorities relating to waste water management</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>14.06</iigroup>
+            <iigroupname>Organisation and implementation of waste management</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>14.06.00</iigroup>
+                <iigroupname>Organisation and implementation of waste management</iigroupname>
+                <itemgroups>
+                  <itemgroup>
+                    <iigroup>14.06.00.00</iigroup>
+                    <iigroupname>Municipal waste management planning and organisation</iigroupname>
+                    </itemgroup>
+                  <itemgroup>
+                    <iigroup>14.06.00.01</iigroup>
+                    <iigroupname>Participation in the notification and enforcement of decisions of other licensing authorities relating to waste management</iigroupname>
+                    </itemgroup>
+                </itemgroups>
+              </itemgroup>
+              <itemgroup>
+                <iigroup>14.06.01</iigroup>
+                <iigroupname>Waste management implementation</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>14.07</iigroup>
+            <iigroupname>Labour Services</iigroupname>
+            <itemgroups>
+              <itemgroup>
+                <iigroup>14.07.00</iigroup>
+                <iigroupname>Labour Services Planning and Development</iigroupname>
+                </itemgroup>
+              <itemgroup>
+                <iigroup>14.07.01</iigroup>
+                <iigroupname>Provision of labour services</iigroupname>
+                </itemgroup>
+            </itemgroups>
+          </itemgroup>
+          <itemgroup>
+            <iigroup>14.08</iigroup>
+            <iigroupname>Consumer advice</iigroupname>
+            </itemgroup>
+        </itemgroups>
+      </itemgroup>
+    </itemgroups>
+  </tosdata>
+</tos>
