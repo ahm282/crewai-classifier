@@ -9,7 +9,7 @@ from tasks import (
     human_review,
 )
 
-# Set environment variables if required
+# Set OpenAI API key -> necessary for OpenAI agents when using Ollama
 os.environ["OPENAI_API_KEY"] = "sk-1234567890abcdef1234567890abcdef"
 
 # Set the current date and time for logging
@@ -32,8 +32,8 @@ classifier_crew = Crew(
         human_review,
     ],
     process=Process.sequential,
-    output_log_file=f"./crew_output.log-{timestamp}",
+    output_log_file=f"logs/crew_output.log-{timestamp}",
     share_crew=False,
     verbose=True,
-    embedder={"provider": "ollama", "config": {"model": "nomic-embed-text:latest"}},
+    # embedder={"provider": "ollama", "config": {"model": "nomic-embed-text:latest"}},
 )

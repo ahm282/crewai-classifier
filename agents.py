@@ -1,9 +1,17 @@
-from crewai import Agent
+from crewai import Agent, LLM
 from langchain_openai import ChatOpenAI
 import os
 
 os.environ["OPENAI_API_KEY"] = "sk-1234567890abcdef1234567890abcdef"
 llm = ChatOpenAI(model="ollama/gemma2:9b", base_url="http://localhost:11434/v1")
+
+# ----- Groq LLM -----
+# groq_api_key = os.getenv("GROQ_API_KEY")
+# llm = LLM(
+#     base_url="https://api.groq.com/openai/v1",
+#     api_key=groq_api_key,
+#     model="groq/llama3-8b-8192",
+# )
 
 # Define agents
 text_ingestion_specialist = Agent(

@@ -15,6 +15,7 @@ hierarchy = get_categories("./TOS/english_tos.xml")
 # Define tasks with strict top-5 classification requirements
 ingest_documents = Task(
     agent=text_ingestion_specialist,
+    name="Document Ingestion",
     description="""
     Prepare and standardize the document and all incoming text {raw_input} by:
     1. Applying consistent formatting, encoding, and metadata structure
@@ -26,6 +27,7 @@ ingest_documents = Task(
 
 preprocess_text = Task(
     agent=text_preprocessing_specialist,
+    name="Text Preprocessing",
     description="""
     Prepare and vectorize document for semantic classification:
     1. Text Cleaning:
@@ -51,6 +53,7 @@ preprocess_text = Task(
 
 classify_documents = Task(
     agent=text_classification_specialist,
+    name="Document Classification",
     description="""
     Perform strict top-5 label classification by:
     1. Analyzing the content of the document against the provided {hierarchy}.
@@ -100,6 +103,7 @@ classify_documents = Task(
 
 score_confidence = Task(
     agent=confidence_scoring_agent,
+    name="Confidence Scoring",
     description="""
     Evaluate classification confidence for top-5 labels by:
     1. Analyzing strength of evidence for each assigned label
@@ -126,6 +130,7 @@ score_confidence = Task(
 
 human_review = Task(
     agent=human_in_the_loop,
+    name="Human Review",
     description="""
     Review flagged classifications by:
     1. Examining documents with low confidence scores or flags

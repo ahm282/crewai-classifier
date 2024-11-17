@@ -4,14 +4,18 @@ from lib.parse_xml import get_categories
 from crew import classifier_crew
 
 
-def train():
+def train(pdf_file_path):
     """
     Train the crew for a given number of iterations.
+
+    Args:
+        pdf_file_path (str): Path to the pdf file.
+
+    Returns:
+        Saves the trained crew to a pkl file.
     """
     pdf_reader = PdfReader()
-    pdf_content = pdf_reader.read_upto_page(
-        "./documents/GDP monthly estimate, UK September 2024.pdf", 10
-    )
+    pdf_content = pdf_reader.read_upto_page(pdf_file_path, 10)
 
     # Parse xml
     classifications = get_categories("./TOS/english_tos.xml")
@@ -31,15 +35,13 @@ def train():
         raise Exception(f"An error occurred while training the crew: {e}")
 
 
-def run():
+def run(pdf_file_path):
     """
     Run the crew on a given input.
     """
     # Read pdf content
     pdf_reader = PdfReader()
-    pdf_content = pdf_reader.read_upto_page(
-        "./documents/Lichfield_District_local_plan_strategy.pdf", 10
-    )
+    pdf_content = pdf_reader.read_upto_page(pdf_file_path, 10)
 
     # Parse xml
     classifications = get_categories("./TOS/english_tos.xml")
@@ -59,5 +61,6 @@ def run():
 
 
 if __name__ == "__main__":
-    result = run()
+    pdf_file = "./documents/Crime_statistics_in_California.pdf"
+    result = run(pdf_file)
     print(result)
